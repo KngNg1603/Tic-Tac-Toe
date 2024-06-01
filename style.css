@@ -1,0 +1,87 @@
+body {
+    background-color: #283149;
+}
+
+h1 {
+    font-size: 5rem;
+    font-weight: bold;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+h3 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+.play-table {
+    width: fit-content;
+}
+
+.cell {
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    color: #283149;
+    
+}
+
+#cell-0-0 {
+    border-right: #DBEDF3 solid 5px;
+    border-bottom: #DBEDF3 solid 5px;
+}
+
+#cell-0-1 {
+    border-right: #DBEDF3 solid 5px;
+    border-bottom: #DBEDF3 solid 5px;
+    border-left: #DBEDF3 solid 5px;
+}
+
+#cell-0-2 {
+    border-bottom: #DBEDF3 solid 5px;
+    border-left: #DBEDF3 solid 5px;
+}
+
+#cell-1-0 {
+    border-right: #DBEDF3 solid 5px;
+    border-top: #DBEDF3 solid 5px;
+    border-bottom: #DBEDF3 solid 5px;
+}
+
+#cell-1-1 {
+    border-right: #DBEDF3 solid 5px;
+    border-top: #DBEDF3 solid 5px;
+    border-bottom: #DBEDF3 solid 5px;
+    border-left: #DBEDF3 solid 5px;
+}
+
+#cell-1-2 {
+    border-top: #DBEDF3 solid 5px;
+    border-bottom: #DBEDF3 solid 5px;
+    border-left: #DBEDF3 solid 5px;
+}   
+
+#cell-2-0 {
+    border-right: #DBEDF3 solid 5px;
+    border-top: #DBEDF3 solid 5px;
+}   
+
+#cell-2-1 {
+    border-right: #DBEDF3 solid 5px;
+    border-top: #DBEDF3 solid 5px;
+    border-left: #DBEDF3 solid 5px;
+}   
+
+#cell-2-2 {
+    border-top: #DBEDF3 solid 5px;
+    border-left: #DBEDF3 solid 5px;
+}   
+
+.icon-img {
+    width: 120px;
+    height: 120px;
+}
